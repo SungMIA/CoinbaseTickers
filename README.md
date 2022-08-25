@@ -10,6 +10,7 @@ This project was bootstrapped with [Create React App], please download the proje
 ### 'npm install'
 ### 'npm start'
 
-![image](https://user-images.githubusercontent.com/40084583/186753870-7de1abaa-42f7-423b-8bbf-cd4ee37fdfe3.png)
+![image](https://user-images.githubusercontent.com/40084583/186754290-b9be9ce0-64ae-41fe-a4c8-843b7df4699a.png)
+
 
 ![image](https://user-images.githubusercontent.com/40084583/186754006-a55595a7-3262-45c0-8b7c-34791f1ec590.png)
