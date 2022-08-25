@@ -1,0 +1,81 @@
+#root {
+  display: flex;
+  justify-content: center;
+  padding-left: 10vw;
+  padding-right: 10vw;
+  padding-top: 5vw;
+}
+#dropDown {
+   margin-bottom: 5%;
+}
+ul {
+  display: block;
+}
+
+#aLadder {
+  padding-left: 2vw;
+  padding-right: 2vw;
+  background-color:rgb(247, 210, 196)
+}
+
+#bLadder {
+  padding-left: 2vw;
+  padding-right: 2vw;
+  background-color:rgb(183, 232, 233);
+}
+
+#aLadder, #bLadder {
+  display: flex;
+  width: 30vw;
+  justify-content: space-between;
+}
+
+#ladderLabel {
+  padding-left: 3vw;
+  display: flex;
+  width: 30vw;
+  justify-content: space-between;
+}
+
+.aPrice {
+  margin-left: 3vw;
+}
+.aPrice, .aQty {
+  color:salmon;
+}
+
+.bPrice, .bQty {
+  color: cornflowerblue;
+}
+
+.bPriceDecimal {
+  color:rgb(23, 23, 234);
+}
+
+.aPriceDecimal {
+  color: rgb(204, 15, 15);
+}
+
+.baContainer, .bbContainer {
+  color: white;
+  width: 38%;
+  display: inline-block;
+  text-align: center;
+  padding-left: 25vw;
+  padding-right: 25vw;
+  padding-top: 2vw;
+  padding-bottom: 2vw;
+}
+
+.bbContainer {
+  background-color: cornflowerblue;
+}
+
+.baContainer {
+  background-color: lightsalmon;
+}
+
+.recharts-wrapper {
+  width: 100%;
+  padding-left: 0vw;
+}
