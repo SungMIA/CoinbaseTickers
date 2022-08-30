@@ -1,7 +1,7 @@
 # Live Crypto Best Asks/Bids Chart & Ladder View
 
 Uses the Coinbase Pro Order Book Data Feed.
-Uses external Priority Queue Library to represent Best Bids/Asks
+Uses external Priority Queue to represent Best Bids/Asks & ReCharts
 
 ## Available Scripts
 This project was bootstrapped with [Create React App], please download the project dependencies
